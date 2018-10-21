@@ -11,9 +11,9 @@ A collection of news articles & research papers directed towards Algorithmic Bia
   [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)(Propublica 2016)
   
 # Conferences/Workshops
-[ACM conference on fairness, Accountability & Transperancy](https://fatconference.org/) - FAT*
-[Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/) - FAT/ML
-[Fairness, Accountability and Transparency in Recommender Systems](https://piret.gitlab.io/fatrec2018/) - FATREC
-[Vision with Biased or Scarce Data](https://vbsd2018.github.io/) - VBSD
+[ACM conference on fairness, Accountability & Transperancy](https://fatconference.org/) - FAT* <br />
+[Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/) - FAT/ML <br />
+[Fairness, Accountability and Transparency in Recommender Systems](https://piret.gitlab.io/fatrec2018/) - FATREC <br />
+[Vision with Biased or Scarce Data](https://vbsd2018.github.io/) - VBSD <br />
 
 
