@@ -7,7 +7,7 @@ A collection of news articles & research papers directed towards Algorithmic Bia
 #### Classification/Regression
 #### Classification/Regression
 # News Articles
-  [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8) (Nature 2018)
+  [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8) (Nature 2018) <br />
   [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)(Propublica 2016) <br />
   [What the debacle of Amazon’s sexist hiring algorithm reveals about how human bias works](https://scroll.in/article/900722/what-the-debacle-of-amazons-sexist-hiring-algorithm-reveals-about-how-human-bias-works)
   
